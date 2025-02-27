@@ -109,7 +109,7 @@ export default function Resume() {
                             <Divider my={4} />
                             <Text fontSize="xl" fontWeight="bold">Summary:</Text>
                             <UnorderedList spacing={2} mt={2} textAlign="left">
-                                <ListItem><strong>Education & Teaching:</strong> MFA in Sculpture, University of Minnesota; extensive teaching experience at Idyllwild Arts Academy, University of Minnesota, Leonardo's Basement, among others.</ListItem>
+                                <ListItem><strong>Education & Teaching:</strong> MFA in Sculpture, University of Minnesota; extensive teaching experience at Idyllwild Arts Academy, University of Minnesota, Leonardo's Basement, Macalester College, and Anoka Ramsey Community College among others.</ListItem>
                                 <ListItem><strong>Exhibition & Curation:</strong> Work featured in numerous exhibitions, including international showcases; curated multiple exhibitions.</ListItem>
                                 <ListItem><strong>Awards & Fellowships:</strong> Recipient of multiple grants and fellowships, including Franconia Sculpture Park Residency.</ListItem>
                                 <ListItem><strong>Collaborative & Leadership Roles:</strong> Faculty sponsor for environmental and arts enterprise initiatives; juror and panelist.</ListItem>
